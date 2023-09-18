@@ -1,0 +1,27 @@
+<svg width="52" height="31" viewBox="0 0 52 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_62_13270)">
+<circle cx="27" cy="17.5" r="7.25" stroke="white" stroke-width="1.5"/>
+<circle cx="27" cy="17.5" r="7.25" stroke="white" stroke-width="1.5"/>
+<path d="M21 27.5L27 26.5L33 27.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M21 27.5L27 26.5L33 27.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<mask id="mask0_62_13270" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="28" y="0" width="24" height="25">
+<path d="M28 10L37 0L52 4.5V24.5H31L35.5 15.5L28 10Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_62_13270)">
+<circle cx="36" cy="13.5" r="7.25" stroke="white" stroke-width="1.5"/>
+<path d="M30 23.5L36 22.5L42 23.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<mask id="mask1_62_13270" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<path d="M24 10.5L15 0.5L0 5V25H23.5L18.5 16L24 10.5Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_62_13270)">
+<circle cx="8" cy="8" r="7.25" transform="matrix(-1 0 0 1 24 5.5)" stroke="white" stroke-width="1.5"/>
+<path d="M22 23.5L16 22.5L10 23.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0_62_13270">
+<rect width="24" height="24" fill="white" transform="translate(15 6.5)"/>
+</clipPath>
+</defs>
+</svg>
