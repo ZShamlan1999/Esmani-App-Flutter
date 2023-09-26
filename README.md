@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Screenshot 
 
-Markup : ![picture alt](IMG_20230926_040539/200x150)
+Markup : ![picture alt](IMG_20230926_040539.jpg)
