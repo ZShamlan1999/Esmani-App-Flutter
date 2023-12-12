@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+#ScreenShot
+![splash_screen](https://github.com/ZShamlan1999/esmani_app/assets/138628560/58ad300b-0a2a-4575-8df7-89983e662bf4)
 
-This project is a starting point for a Flutter application.
+![lecturer_login](https://github.com/ZShamlan1999/esmani_app/assets/138628560/d459eeaf-056d-45ee-804d-3f6d541d7335)
 
-A few resources to get you started if this is your first Flutter project:
+![lecturer_HomePage](https://github.com/ZShamlan1999/esmani_app/assets/138628560/6e64a95a-6e00-4229-a747-df2b1cd2fef5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![lecturer_create_course](https://github.com/ZShamlan1999/esmani_app/assets/138628560/919765e3-20b9-4871-a4e8-3bdc2ffd9d2c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![QRCode_Course](https://github.com/ZShamlan1999/esmani_app/assets/138628560/b848a9ab-82d2-4aa3-8bf1-1d33d71eef7d)
+
+![Attendance_Page](https://github.com/ZShamlan1999/esmani_app/assets/138628560/683befb3-b81b-492a-9c85-31a8d64bc993)
